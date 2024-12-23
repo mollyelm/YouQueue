@@ -1,0 +1,18 @@
+{
+  "name": "groupproj",
+  "version": "1.0.0",
+  "description": "Submitted by: Molly Moulton (directory id: mollyem) Group Members: Nader Atta-Allah (nattaall), Nikila Surapaneni (nsurapan) App Description: Allows users to create a video queue and keep track of their video stats. YouTube Video Link: LINK APIs: [YT-API](https://rapidapi.com/ytjar/api/yt-api) Contact Email:  nattaall@terpmail.umd.edu# YouQueue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
